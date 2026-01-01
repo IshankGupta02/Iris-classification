@@ -1,7 +1,0 @@
-Flask
-scikit-learn
-Pandas
-NumPy
-Pickle5
-gunicorn
-
